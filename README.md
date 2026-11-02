@@ -2,8 +2,6 @@
 
 Like all good marketers, **I'm currently learning my way around Github.**
 
----
-
 Right now, I'm **focused on building AI tools and skills to support my ADHD,** helping me stay productive while working remotely. When they're ready, I publish them publicly here.
 
 **\[List of skills coming soon\]**
